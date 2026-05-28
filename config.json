@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdpdate",
+        "uuid": 3262176,
+        "checksum": "rmo1id"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
